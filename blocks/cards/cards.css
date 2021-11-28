@@ -4,4 +4,6 @@
   flex-wrap: wrap;
   width: 920px;
   align-content: flex-start;
+  list-style-type: none;
+  padding: 0;
 }
